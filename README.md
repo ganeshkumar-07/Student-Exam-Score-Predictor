@@ -3,7 +3,7 @@
 ## Student Details
 
 **Name:** Ganesh Kumar  
-**Registration Number:** 25BHI10119
+**Registration Number:** 25BHI10119 \
 **Course:** Fundamentals of AI and ML  
 
 ---
@@ -58,7 +58,7 @@ Many students are unaware of how their daily habits affect academic performance.
 
 ## Project Structure
 
-student-exam-score-predictor/
+student-exam-score-predictor \
 │── app.py  
 │── main.py  
 │── notebook.ipynb  
